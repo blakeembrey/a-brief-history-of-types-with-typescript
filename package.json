@@ -1,0 +1,32 @@
+{
+  "name": "a-brief-history-of-types",
+  "private": true,
+  "scripts": {
+    "dist": "reveal-md README.md --static dist",
+    "dev": "reveal-md README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/a-brief-history-of-types-with-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "talk",
+    "types",
+    "typings"
+  ],
+  "author": {
+    "name": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/a-brief-history-of-types-with-typescript/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/a-brief-history-of-types-with-typescript",
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "reveal-md": "^2.3.0"
+  }
+}
