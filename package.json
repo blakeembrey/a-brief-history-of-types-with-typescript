@@ -2,8 +2,9 @@
   "name": "a-brief-history-of-types",
   "private": true,
   "scripts": {
-    "dist": "reveal-md README.md --static dist",
-    "dev": "reveal-md README.md"
+    "dist": "reveal-md README.md --static dist --static-dirs static",
+    "dev": "reveal-md README.md",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
