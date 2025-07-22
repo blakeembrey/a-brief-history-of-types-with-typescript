@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/blakeembrey/a-brief-history-of-types-with-typescript",
   "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "reveal-md": "^2.3.0"
+    "gh-pages": "^5.0.0",
+    "reveal-md": "^6.1.4"
   }
 }
